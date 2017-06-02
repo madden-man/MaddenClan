@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e4ac24c2-ef61-4e54-9380-eee8f8b00055" name="Madden Clan" url="http://maddenclan.net">
+        <fileTransfer host="maddenclan.net" port="21" rootFolder="/public_html/" username="maddencl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e66a0974-49c5-4fd0-ac63-c2dd8bdd8876" name="Madden_Clan" url="http://maddenclan.net">
+        <fileTransfer host="maddenclan.net" port="21" rootFolder="/public_html/" username="maddencl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
